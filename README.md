@@ -1205,11 +1205,11 @@ Las decisiones sobre seguridad, formulación final y comercialización deben ser
 | `docs/BACKEND_SCHEMA.md`      | Esquema PostgreSQL                      | ✅ |
 | `docs/SIMULATION_MODEL.md`    | Modelo matemático                       | ✅ |
 | `docs/DATA_SOURCES.md`        | Procedencia de cada dato: qué es real, qué es estimado | ✅ |
-| `docs/ML_MODEL.md`            | Dataset, features, modelos y validación | ⏳ Pendiente (Tonny) |
-| `docs/SCIENTIFIC_EVIDENCE.md` | Fuentes y trazabilidad                  | ⏳ Pendiente (Tonny) |
-| `docs/AI_PIPELINE.md`         | Pipeline de IA/RAG                      | ⏳ Pendiente (Tonny) |
-| `docs/REPORT_SCHEMA.md`       | Estructura de reportes                  | ⏳ Pendiente (Tonny) |
-| `docs/REGULATORY_RULES.md`    | Reglas y fuentes regulatorias           | ⏳ Pendiente (Tonny) |
+| `docs/ML_MODEL.md`            | Dataset, features, modelos y validación | ⏳ Pendiente |
+| `docs/SCIENTIFIC_EVIDENCE.md` | Fuentes y trazabilidad                  | ⏳ Pendiente  |
+| `docs/AI_PIPELINE.md`         | Pipeline de IA/RAG                      | ⏳ Pendiente |
+| `docs/REPORT_SCHEMA.md`       | Estructura de reportes                  | ⏳ Pendiente  |
+| `docs/REGULATORY_RULES.md`    | Reglas y fuentes regulatorias           | ⏳ Pendiente  |
 | `docs/IMPLEMENTATION_PLAN.md` | Plan de implementación                  | ✅ |
 | `docs/adr/`                   | Decisiones de arquitectura, incluyendo por qué el motor es TS y no Python | ✅ |
 
@@ -1251,18 +1251,9 @@ pytest
 
 ---
 
-# 30. Integrantes
-
-| Nombre        | GitHub               | Rol                                      |
-| ------------- | -------------------- | ---------------------------------------- |
-| Max Morales   | `@maxmorales` | Tech Lead / Arquitectura / Simulación    |
-|  Jeanfranco Chamorro  | `@jeanfrancochamorro-jpg` |  Backend               |
-| Tonny Hinstroza | `@tonnyhinostroza`                  |ML / IA                        |
-| Julio Rios    | `@juliorios`                  | Producto / Investigación / Documentación |
-
 ---
 
-# 31. Resumen
+#  Resumen
 
 DERMASENSE integra:
 
