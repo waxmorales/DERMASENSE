@@ -1255,9 +1255,9 @@ pytest
 
 | Nombre        | GitHub               | Rol                                      |
 | ------------- | -------------------- | ---------------------------------------- |
-| Jeanfranco Chamorro   | `@jeanfrancochamorro-jpg` | Tech Lead / Arquitectura / Simulación    |
-| Max Morales   | `@maxmorales`                  | Frontend / Visualización 3D              |
-| Tonny Hinstroza | `@tonnyhinostroza`                  | Backend / ML / IA                        |
+| Max Morales   | `@maxmorales` | Tech Lead / Arquitectura / Simulación    |
+|  Jeanfranco Chamorro  | `@jeanfrancochamorro-jpg` |  Backend               |
+| Tonny Hinstroza | `@tonnyhinostroza`                  |ML / IA                        |
 | Julio Rios    | `@juliorios`                  | Producto / Investigación / Documentación |
 
 ---
